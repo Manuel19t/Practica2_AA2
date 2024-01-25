@@ -33,6 +33,4 @@ Por ultimos, podemos observan que tanto los resultados de la primera parte como 
 
 #### Participantes:
 - Denys Kavkalo Gumeniuk
-- Manuel Torrealba
-
-### Segunda parte:
+- Manuel Alejandro Torrealba Torrealba (Y3895148C)
