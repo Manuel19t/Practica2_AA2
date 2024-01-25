@@ -1,4 +1,4 @@
-# Practica2_AA2
+# Practica 2: Autoencoders
 
 ## Introducción:
 
